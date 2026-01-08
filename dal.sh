@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -n "Enter age: "
+echo -n "Enter  a name: "
 read age
 
 if [ "$age" -ge 18 ]; then
