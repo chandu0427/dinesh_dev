@@ -3,7 +3,7 @@
 echo -n "Enter age: "
 read age
 
-if [ "$age" -ge 18 ]; then
+if [ "$age" -ge 25 ]; then
     echo "You are eligible for voting."
 else
     echo "You are not eligible for voting."
