@@ -4,8 +4,8 @@ echo -n "Enter  a name: "
 read age
 
 if [ "$age" -ge 18 ]; then
-    echo "You are eligible for voting."
+    echo "he is eligible for voting."
 else
-    echo "You are not eligible for voting."
+    echo "she is not eligible for voting."
 fi
  
